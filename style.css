@@ -1,0 +1,18 @@
+
+h2{
+    color:aqua;
+
+}
+h1{
+    border:2px solid rgb(172, 63, 13);
+}
+/*{*/
+    /* border:2px solid rgb(211, 12, 12); */
+
+/*}
+*/
+.box1{
+    display:grid;
+    justify-content:center ;
+    align-items:center;
+}
